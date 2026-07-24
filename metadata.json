@@ -1,0 +1,8 @@
+{
+  "name": "Neneh Funkuba Enterprise",
+  "description": "Integrated Wholesale & Retail ERP System featuring POS, Inventory, Multi-Channel Ledgers (Orange, Afrimoney, QMoney, Bank, Cash), Customer Credit, Supplier Management, Profit & Loss, Balance Sheet, Google Drive Cloud Backups, and Executive Reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
